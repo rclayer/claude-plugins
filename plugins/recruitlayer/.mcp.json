@@ -2,7 +2,7 @@
   "mcpServers": {
     "recruitlayer": {
       "type": "http",
-      "url": "https://mcp.recruitlayer.com/mcp"
+      "url": "https://mcp.recruitlayer.com/mcp/claude"
     }
   }
 }
