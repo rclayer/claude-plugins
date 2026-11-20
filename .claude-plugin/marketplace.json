@@ -1,0 +1,15 @@
+{
+  "name": "recruitlayer",
+  "description": "recruitlayer plugins for Claude.",
+  "owner": {
+    "name": "recruitlayer",
+    "email": "hello@recruitlayer.com"
+  },
+  "plugins": [
+    {
+      "name": "recruitlayer",
+      "source": "./plugins/recruitlayer",
+      "version": "1.0.1"
+    }
+  ]
+}
